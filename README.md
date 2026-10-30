@@ -18,7 +18,6 @@ pronta para copiar para o cartão SD.
 
 ## Requisitos
 
-- **Windows 10 ou 11 (64 bits).** O programa não precisa de instalação (nem de Python).
 - Um **EverDrive N8 clone** com a pasta `EDFC` no cartão SD.
 - As imagens das capas em **PNG** (veja [Imagens das capas](#imagens-das-capas)).
 
@@ -107,6 +106,7 @@ Os ícones na lista indicam as capas com **nitidez** e com **cores editadas**; o
 | Tamanho do `COVERS.BIN` | **32 KB por ROM** | 822 ROMs ≈ 26 MB. |
 | Tipos de arquivo com capa | só **`.nes`** | |
 | Nome da ROM | até **60 caracteres**, **sem acentos** | O navegador mostra o nome em 2 linhas de 30 colunas; nomes com acento ou maiores são pulados (aparecem como aviso no log). |
+| Nome da ROM | começar com **letra maiúscula** | Um nome todo em minúsculas (ex.: `contra.nes`) aparece errado no navegador do cartucho (`contanes`) e a capa não carrega. Use `Contra.nes`. |
 | Espera antes de carregar | **0 a 4 s** | |
 
 ---
@@ -130,6 +130,8 @@ nos degradês. A conversão de uma capa leva ~1 s sem flicker e ~12 s com flicke
 
 - **O console trava ao abrir uma pasta:** o `COVERS.BIN` ficou fragmentado no cartão, ou o `OS.BIN` e o
   `COVERS.BIN` são de gerações diferentes. Copie de novo os dois com **Copiar agora**.
+- **O nome do jogo aparece "colado" (ex.: `contanes`) e a capa não carrega:** o arquivo da ROM está com o nome todo
+  em minúsculas. Renomeie começando com letra maiúscula (`contra.nes` → `Contra.nes`).
 - **Um "chuvisco" de ~0,5 s ao ligar o console**, antes da tela de carga: é só visual (a firmware prepara a memória
   de vídeo em vários bancos) e some sozinho.
 - **Pastas com mais de 254 itens** mostram só os primeiros (limite da firmware original).
