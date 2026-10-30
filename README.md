@@ -140,28 +140,6 @@ nos degradês. A conversão de uma capa leva ~1 s sem flicker e ~12 s com flicke
 
 ---
 
-## Para desenvolvedores
-
-Rodar pelo código (Windows, Python 3 com `numpy` e `Pillow`):
-
-```
-python ferramentas\gerador_firmware_capas.py
-```
-
-Compilar o `.exe` (PyInstaller):
-
-```
-python -m pip install --user pyinstaller
-python ferramentas\compilar_exe.py
-```
-
-O gerador de capas também roda pela linha de comando:
-`python ferramentas\gerar_covers_v10.py <pasta das capas> --roms <pasta> -o COVERS.BIN [--base COVERS.BIN]`.
-Os detalhes técnicos da firmware (o que foi modificado no OS, o formato do `COVERS.BIN`, os testes) estão em
-`NOTAS-TECNICAS-FIRMWARE.md`.
-
----
-
 ## Créditos
 
 Feito por **TavinhoGames** — [GitHub](https://github.com/Guga-Tavinho) ·
