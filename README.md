@@ -4,7 +4,7 @@ Mostra a **capa do jogo** ao lado da lista de jogos no navegador do **EverDrive 
 O programa converte as suas imagens de capa para o NES e gera a firmware do cartucho (`OS.BIN` + `COVERS.BIN`),
 pronta para copiar para o cartão SD.
 
-![A ferramenta](docs/ferramenta.png)
+![A ferramenta]
 
 - Capa de **112×160 pontos** à direita da lista, com fundo + sprites do NES (até 62 sprites)
 - **20 jogos por página** — a lista fica da mesma altura da capa
