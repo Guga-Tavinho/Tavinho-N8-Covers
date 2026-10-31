@@ -1,14 +1,14 @@
-# NES N8 Everdrive Covers editor
+# Custom Firmware para o Everdrive NES N8.
 
-Mostra a **capa do jogo** ao lado da lista de jogos no navegador do **EverDrive N8 (clone "EDFC")** para NES.
-O programa converte as suas imagens de capa para o NES e gera a firmware do cartucho (`OS.BIN` + `COVERS.BIN`),
+Essa firmware mostra a **capa do jogo** ao lado da lista de jogos no navegador do **EverDrive N8** para NES.
+Foi criado um programa que converte as suas imagens de capa para o NES e gera a firmware do cartucho (`OS.BIN` + `COVERS.BIN`),
 pronta para copiar para o cartão SD.
 
-## A Ferramenta
+## Features da Custom Firmware/Programa
 
 - Capa de **112×160 pontos** à direita da lista, com fundo + sprites do NES (até 62 sprites)
 - **20 jogos por página** — a lista fica da mesma altura da capa
-- **← →** agora trocam de página com o cursor no topo(na firmware original, ela mantinha a posição do cursor na pagina anterior)
+- **← →** agora trocam de página com o cursor no topo(na firmware original, ela mantinha a posição do cursor da pagina anterior)
 - A capa carrega só quando o cursor **para** no jogo (espera configurável); qualquer botão cancela a carga
 - Ajustes **por capa**: nitidez, pontilhado (dithering), flicker nos sprites (7 níveis) e troca de cores com
   conta-gotas
