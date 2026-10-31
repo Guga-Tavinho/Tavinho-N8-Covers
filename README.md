@@ -31,9 +31,9 @@ pronta para copiar para o cartão SD.
 
 1. Baixe o `NES N8 Covers Editor.zip` da página de *Releases*.
 2. Extraia em qualquer pasta.
-3. Abra **`NES N8 Covers Editor.exe`**. Deixe a pasta `_internal` sempre junto do `.exe`.
+3. Abra **`NES N8 Covers Editor.exe`**.
 
-As configurações ficam em `%APPDATA%\NES N8 Covers editor\`.
+Obs: O Cache da ferramenta fica armazenada em: `%APPDATA%\NES N8 Covers editor\`.
 
 ---
 
