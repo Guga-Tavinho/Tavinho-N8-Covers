@@ -1,8 +1,20 @@
 # Custom Firmware para o Everdrive NES N8.
-[![Assista ao vídeo: EverDrive N8 agora com capas nos jogos!](https://github.com/Guga-Tavinho/Tavinho-N8-Covers/blob/main/imagens/git-tumb.png)](https://youtu.be/25HVaEOqsMQ)
+
 Essa firmware mostra a **capa do jogo** ao lado da lista de jogos no navegador do **EverDrive N8** para NES.
 Foi criado um programa que converte as suas imagens de capa para o NES e gera a firmware do cartucho (`OS.BIN` + `COVERS.BIN`),
 pronta para copiar para o cartão SD.
+
+## 🎥 Demonstração em vídeo
+
+<p align="center">
+  <a href="https://youtu.be/25HVaEOqsMQ">
+    <img
+      src="https://github.com/Guga-Tavinho/Tavinho-N8-Covers/blob/main/imagens/git-tumb.png"
+      alt="Assistir ao vídeo: EverDrive N8 agora com capas nos jogos!"
+      width="700"
+    >
+  </a>
+</p
 
 ## Features da Custom Firmware/Programa
 
