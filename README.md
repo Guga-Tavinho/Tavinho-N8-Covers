@@ -1,3 +1,9 @@
+<p align="right">
+  <strong>Português</strong> |
+  <a href="./README-EN.md">English</a> |
+  <a href="./README-ES.md">Español</a>
+</p>
+
 # Custom Firmware para o Everdrive NES N8.
 
 Essa firmware mostra a **capa do jogo** ao lado da lista de jogos no navegador do **EverDrive N8** para NES.
