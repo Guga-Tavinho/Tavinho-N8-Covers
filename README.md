@@ -33,7 +33,7 @@ pronta para copiar para o cartão SD.
 2. Extraia em qualquer pasta.
 3. Abra **`NES N8 Covers Editor.exe`**.
 
-Obs: O Cache da ferramenta fica armazenada em: "**`%APPDATA%\NES N8 Covers editor\`**".
+Obs: O Cache da ferramenta fica armazenada em: (**`%APPDATA%\NES N8 Covers editor\`**).
 
 ---
 
