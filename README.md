@@ -8,6 +8,7 @@ pronta para copiar para o cartão SD.
 
 - Capa de **112×160 pontos** à direita da lista, com fundo + sprites do NES (até 62 sprites)
 - **20 jogos por página** — a lista fica da mesma altura da capa
+- **← →** agora trocam de página com o cursor no topo(na firmware original, ela mantinha a posição do cursor na pagina anterior)
 - A capa carrega só quando o cursor **para** no jogo (espera configurável); qualquer botão cancela a carga
 - Ajustes **por capa**: nitidez, pontilhado (dithering), flicker nos sprites (7 níveis) e troca de cores com
   conta-gotas
