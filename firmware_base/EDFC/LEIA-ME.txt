@@ -1,0 +1,7 @@
+Coloque aqui o OS.BIN ORIGINAL do seu EverDrive N8 clone (pasta EDFC do cartão).
+
+Ele é de terceiros e não é distribuído neste repositório. Os builders da firmware (ferramentas/build_*.py) e os
+testes leem firmware_base/EDFC/OS.BIN e conferem o SHA-1:
+  dbea89d33eacd7ae72ee24d2652727b0cb5740ae  (57.344 bytes)
+
+A ferramenta (gerador_firmware_capas.py) NÃO precisa dele: usa ferramentas/firmwares/OS_v15.BIN.

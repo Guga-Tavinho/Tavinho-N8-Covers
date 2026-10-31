@@ -1,0 +1,5 @@
+Pasta das capas de teste (não incluídas).
+
+Os testes e as POCs usam imagens/Named_Boxarts/ com PNGs do conjunto Named_Boxarts do libretro-thumbnails:
+https://github.com/libretro-thumbnails/Nintendo_-_Nintendo_Entertainment_System
+(os nomes usados estão em ferramentas/build_poc_capa_grande*.py)

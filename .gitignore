@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# gerados / pessoais
+ferramentas/cache_flicker/
+ferramentas/gerador_config.json
+capas_config.json
+paletas_editadas*/
+compilado/
+firmware_gerada/
+poc_*/
+debug/*
+!debug/.gitkeep
+
+# o OS original é de terceiros: nunca publicar
+firmware_base/EDFC/*.BIN
+firmware_base/EDFC/*.bin
+
+# capas (direitos dos donos)
+imagens/*
+!imagens/LEIA-ME.txt
