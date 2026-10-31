@@ -14,7 +14,7 @@ pronta para copiar para o cartão SD.
       width="700"
     >
   </a>
-</p
+</p>
 
 ## Features da Custom Firmware/Programa
 
